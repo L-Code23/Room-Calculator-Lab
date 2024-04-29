@@ -1,0 +1,14 @@
+C:\Users\ramse\source\repos\Room Calculator Lab\Room Calculator Lab\bin\Debug\net8.0\Room Calculator Lab.exe
+C:\Users\ramse\source\repos\Room Calculator Lab\Room Calculator Lab\bin\Debug\net8.0\Room Calculator Lab.deps.json
+C:\Users\ramse\source\repos\Room Calculator Lab\Room Calculator Lab\bin\Debug\net8.0\Room Calculator Lab.runtimeconfig.json
+C:\Users\ramse\source\repos\Room Calculator Lab\Room Calculator Lab\bin\Debug\net8.0\Room Calculator Lab.dll
+C:\Users\ramse\source\repos\Room Calculator Lab\Room Calculator Lab\bin\Debug\net8.0\Room Calculator Lab.pdb
+C:\Users\ramse\source\repos\Room Calculator Lab\Room Calculator Lab\obj\Debug\net8.0\Room Calculator Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramse\source\repos\Room Calculator Lab\Room Calculator Lab\obj\Debug\net8.0\Room Calculator Lab.AssemblyInfoInputs.cache
+C:\Users\ramse\source\repos\Room Calculator Lab\Room Calculator Lab\obj\Debug\net8.0\Room Calculator Lab.AssemblyInfo.cs
+C:\Users\ramse\source\repos\Room Calculator Lab\Room Calculator Lab\obj\Debug\net8.0\Room Calculator Lab.csproj.CoreCompileInputs.cache
+C:\Users\ramse\source\repos\Room Calculator Lab\Room Calculator Lab\obj\Debug\net8.0\Room Calculator Lab.dll
+C:\Users\ramse\source\repos\Room Calculator Lab\Room Calculator Lab\obj\Debug\net8.0\refint\Room Calculator Lab.dll
+C:\Users\ramse\source\repos\Room Calculator Lab\Room Calculator Lab\obj\Debug\net8.0\Room Calculator Lab.pdb
+C:\Users\ramse\source\repos\Room Calculator Lab\Room Calculator Lab\obj\Debug\net8.0\Room Calculator Lab.genruntimeconfig.cache
+C:\Users\ramse\source\repos\Room Calculator Lab\Room Calculator Lab\obj\Debug\net8.0\ref\Room Calculator Lab.dll
